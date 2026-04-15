@@ -38,10 +38,9 @@ Write a **~300-word reflection** using the [reflection template](reflection-temp
 Upload your video to Google Drive (share link), YouTube (unlisted), or Vimeo.
 
 Then:
-1. Create a `week-04/` folder in your GitHub Classroom repo
-2. Create `week-04/links.md` with your video link
-3. Create `week-04/reflection.md`
-4. Commit and submit repo URL on Canvas
+1. Create `links.md` with your video link
+2. Create `reflection.md`
+3. Commit and submit repo URL on Canvas
 
 ---
 
@@ -52,5 +51,5 @@ Then:
 | Video 3-5 min with at least 2 techniques | 2.5 |
 | Video link accessible | 0.5 |
 | Reflection (~300 words) | 1.5 |
-| Files organized in `/week-04/` | 0.5 |
+
 | **Total** | **5** |
